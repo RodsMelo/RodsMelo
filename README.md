@@ -1,5 +1,7 @@
 ## Olá!!! Eu sou o Rodrigo Melo, Engenheiro Civil e Desenvolverdor Front-end.
 
+ ![G1](https://user-images.githubusercontent.com/111820428/192531798-8a3caa29-1ffb-4d24-93d0-ec5179e4eac8.gif)
+
 <div align="center">
   <a href="https://github.com/RodsMelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodsMelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -20,5 +22,4 @@
   <a href="https://www.linkedin.com/in/rodrigo-melo-386616171/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:rodrigomeloeng99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
 </div>
